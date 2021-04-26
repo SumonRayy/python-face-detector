@@ -17,6 +17,8 @@ There Are two main modules in this repo :
 
 - ```camera_face_detector.py``` :  This module can be used to detect the face from a webcam RealTime.
 
+--------------
+
 ### Thank You For Checking This Out 🥰🤗 Please give it a Start ⭐ if You've Liked it . . .
 ## And Follow Me On GitHub 🙏🏻
 
